@@ -468,6 +468,6 @@ public class AhmTelegramBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // TODO
-        return "6799953370:AAFtmDRWFbN-vPzNfh1kxzo7URRpPmpyuRg";
+        return "";//here your token
     }
 }
